@@ -7,10 +7,10 @@
 - 💻 I’m currently working on building my  own Power Shell CLI.  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- 🎓I'm a student at SRMIST, pursuing B.Tech in Computer Science.   
   
 
-- 🎓I'm a student at SRMIST, pursuing B.Tech in Computer Science.  
+- ⚡ Fun fact: I use tabs over spaces.
   
 
 ![coding](https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif)  
